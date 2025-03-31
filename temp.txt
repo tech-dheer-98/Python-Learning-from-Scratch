@@ -1,0 +1,5 @@
+This is a file which is used to import in other file
+I hope you  understand this concept 
+Thanks a lot
+This is the Append method in code 
+This is the new line of append 
